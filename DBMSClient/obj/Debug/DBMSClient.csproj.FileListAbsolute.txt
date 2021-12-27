@@ -1,0 +1,20 @@
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csproj.AssemblyReference.cache
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.Form1.resources
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.Properties.Resources.resources
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csproj.GenerateResource.cache
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csproj.CoreCompileInputs.cache
+D:\University\IT\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.exe.config
+D:\University\IT\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.exe
+D:\University\IT\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.pdb
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.exe
+D:\University\IT\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.pdb
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.Properties.Resources.resources
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csproj.GenerateResource.cache
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csproj.CoreCompileInputs.cache
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.exe
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.pdb
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.exe.config
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.exe
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\bin\Debug\DBMSClient.pdb
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.Form1.resources
+D:\__Универ\ІТ (перездача)\DBMSRemoting\DBMSClient\obj\Debug\DBMSClient.csprojAssemblyReference.cache
